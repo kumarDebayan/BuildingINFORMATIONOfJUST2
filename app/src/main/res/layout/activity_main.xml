@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/name_textId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:textAllCaps="true"
+        android:hint="ADMIN"
+        android:textColorHint="@color/black"
+        android:contextClickable="true"
+        android:textSize="20sp"
+        android:background="@color/gray"
+        android:textStyle="bold"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="200dp"
+        android:layout_marginRight="200dp"
+        android:layout_marginLeft="5dp" />
+
+    <Button
+        android:id="@+id/name2_textId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColorHint="@color/black"
+        android:hint="BANGABONDHU SHEIKH MUJIB ACADEMIC BUILDING"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:padding="15dp"
+        android:background="@color/gblue"
+        />
+
+    <Button
+        android:id="@+id/name3_textId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:hint="LIBRARY BUILDING"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:padding="15dp"
+        android:textColorHint="@color/black"
+        android:background="@color/yellow"
+
+        />
+
+    <Button
+        android:id="@+id/name4_textId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:hint="ADMINISTRATIVE BUILDING"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:padding="15dp"
+        android:textColorHint="@color/black"
+        android:background="@color/green"
+
+        />
+
+    <Button
+        android:id="@+id/name5_textId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:hint="MEDICAL BUILDING"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:padding="15dp"
+        android:textColorHint="@color/black"
+        android:background="@color/blue"
+
+        />
+
+
+</LinearLayout>
