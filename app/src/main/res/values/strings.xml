@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">BuildingINFORMATIONOfJUST</string>
+    <string name="app_name">BuildingInformationOfJUST</string>
+    <string name="name_text">AdMIN</string>
+    <string name="name_text1">BANGABANDHU SHEIKH MUJIB ACADEMIC BUILDING</string>
+    <string name="name_text2">LIBRARY BUILDING</string>
+    <string name="name_text3">ADMINISTRATIVE BUILDING</string>
+    <string name="name_text4">MEDICAL BUILDING</string>
+    <string name="name_text5">SHAHID MOSHIUR RAHMAN HALL</string>
+    <string name="name_text6">SHEIKH HASINA HALL</string>
+
 </resources>

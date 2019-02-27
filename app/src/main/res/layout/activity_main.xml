@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="5dp"
-    android:background="@color/colorAccent"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -14,16 +13,16 @@
         android:id="@+id/name_textId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="15dp"
+        android:padding="10dp"
         android:textAllCaps="true"
-        android:hint="ADMIN"
-        android:textColorHint="@color/black"
+        android:hint="@string/name_text"
+        android:textColorHint="@color/violet"
         android:contextClickable="true"
-        android:textSize="20sp"
-        android:background="@color/gray"
+        android:textSize="15sp"
+        android:background="@color/green"
         android:textStyle="bold"
         android:layout_marginStart="5dp"
-        android:layout_marginEnd="200dp"
+        android:layout_marginEnd="270dp"
         android:layout_marginRight="200dp"
         android:layout_marginLeft="5dp" />
 
@@ -33,13 +32,13 @@
         android:layout_height="wrap_content"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:textColorHint="@color/black"
-        android:hint="BANGABONDHU SHEIKH MUJIB ACADEMIC BUILDING"
+        android:textColorHint="@color/colorAccent"
+        android:hint="@string/name_text1"
         android:layout_margin="5dp"
         android:textColor="@color/black"
         android:textAllCaps="true"
         android:padding="15dp"
-        android:background="@color/gblue"
+        android:background="@color/orrange"
         />
 
     <Button
@@ -48,13 +47,13 @@
         android:layout_height="wrap_content"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:hint="LIBRARY BUILDING"
+        android:hint="@string/name_text2"
         android:layout_margin="5dp"
         android:textColor="@color/black"
         android:textAllCaps="true"
         android:padding="15dp"
-        android:textColorHint="@color/black"
-        android:background="@color/yellow"
+        android:textColorHint="@color/violet"
+        android:background="@color/orrange"
 
         />
 
@@ -64,13 +63,13 @@
         android:layout_height="wrap_content"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:hint="ADMINISTRATIVE BUILDING"
+        android:hint="@string/name_text3"
         android:layout_margin="5dp"
         android:textColor="@color/black"
         android:textAllCaps="true"
         android:padding="15dp"
-        android:textColorHint="@color/black"
-        android:background="@color/green"
+        android:textColorHint="@color/green"
+        android:background="@color/orrange"
 
         />
 
@@ -78,15 +77,45 @@
         android:id="@+id/name5_textId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/orrange"
+        android:hint="@string/name_text4"
+        android:padding="15dp"
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/yellow"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:hint="MEDICAL BUILDING"
+
+        />
+  <Button
+        android:id="@+id/name6_textId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:hint="@string/name_text5"
         android:layout_margin="5dp"
         android:textColor="@color/black"
         android:textAllCaps="true"
         android:padding="15dp"
-        android:textColorHint="@color/black"
-        android:background="@color/blue"
+        android:textColorHint="@color/blue"
+        android:background="@color/orrange"
+
+        />
+  <Button
+        android:id="@+id/name7_textId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:hint="@string/name_text6"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:padding="15dp"
+        android:textColorHint="@color/gblue"
+        android:background="@color/orrange"
 
         />
 
