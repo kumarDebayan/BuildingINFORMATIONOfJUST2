@@ -5,41 +5,25 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="5dp"
+    android:background="@color/White"
     android:orientation="vertical"
+    android:gravity="center"
     tools:context=".MainActivity">
 
-
-    <Button
-        android:id="@+id/name_textId"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:textAllCaps="true"
-        android:hint="@string/name_text"
-        android:textColorHint="@color/violet"
-        android:contextClickable="true"
-        android:textSize="15sp"
-        android:background="@color/green"
-        android:textStyle="bold"
-        android:layout_marginStart="5dp"
-        android:layout_marginEnd="270dp"
-        android:layout_marginRight="200dp"
-        android:layout_marginLeft="5dp" />
 
     <Button
         android:id="@+id/name2_textId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:textColorHint="@color/colorAccent"
-        android:hint="@string/name_text1"
         android:layout_margin="5dp"
-        android:textColor="@color/black"
-        android:textAllCaps="true"
+        android:background="@color/gray"
+        android:hint="@string/name_text1"
         android:padding="15dp"
-        android:background="@color/orrange"
-        />
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/name3_textId"
@@ -48,12 +32,12 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:hint="@string/name_text2"
-        android:layout_margin="5dp"
+        android:layout_margin="3dp"
         android:textColor="@color/black"
         android:textAllCaps="true"
         android:padding="15dp"
-        android:textColorHint="@color/violet"
-        android:background="@color/orrange"
+        android:textColorHint="@color/black"
+        android:background="@color/gray"
 
         />
 
@@ -64,12 +48,12 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:hint="@string/name_text3"
-        android:layout_margin="5dp"
+        android:layout_margin="3dp"
         android:textColor="@color/black"
         android:textAllCaps="true"
         android:padding="15dp"
-        android:textColorHint="@color/green"
-        android:background="@color/orrange"
+        android:textColorHint="@color/black"
+        android:background="@color/gray"
 
         />
 
@@ -77,13 +61,13 @@
         android:id="@+id/name5_textId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="5dp"
-        android:background="@color/orrange"
+        android:layout_margin="3dp"
+        android:background="@color/gray"
         android:hint="@string/name_text4"
         android:padding="15dp"
         android:textAllCaps="true"
         android:textColor="@color/black"
-        android:textColorHint="@color/yellow"
+        android:textColorHint="@color/black"
         android:textSize="20sp"
         android:textStyle="bold"
 
@@ -95,12 +79,12 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:hint="@string/name_text5"
-        android:layout_margin="5dp"
+        android:layout_margin="3dp"
         android:textColor="@color/black"
         android:textAllCaps="true"
         android:padding="15dp"
-        android:textColorHint="@color/blue"
-        android:background="@color/orrange"
+        android:textColorHint="@color/black"
+        android:background="@color/gray"
 
         />
   <Button
@@ -110,12 +94,12 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:hint="@string/name_text6"
-        android:layout_margin="5dp"
+        android:layout_margin="3dp"
         android:textColor="@color/black"
         android:textAllCaps="true"
         android:padding="15dp"
-        android:textColorHint="@color/gblue"
-        android:background="@color/orrange"
+        android:textColorHint="@color/black"
+        android:background="@color/gray"
 
         />
 

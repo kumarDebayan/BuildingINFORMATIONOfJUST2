@@ -8,9 +8,27 @@
     <color name="black">#123</color>
     <color name="violet">#2c318f</color>
     <color name="gray">#e6e9ef</color>
-    <color name="yellow">#fff234</color>
+    <color name="yellow">#FFFF00</color>
     <color name="gblue">#c7157d</color>
     <color name="green">#2ace14</color>
     <color name="orrange">#1af4be</color>
     <color name="ggreen">#03ff64</color>
+    <color name="Charmpink">#E68FAC</color>
+    <color name="Cerulean">#007BA7</color>
+    <color name="Chartreuse">#DFFF00</color>
+    <color name="Coquelicot">#FF3800</color>
+    <color name="Hanpurple">#5218FA</color>
+    <color name="Internationalorange">#FF4F00</color>
+    <color name="Iris">#5A4FCF</color>
+    <color name="Orange">#FF6600</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="Robineggblue">#00CCCC</color>
+    <color name="Rose">#FF007F</color>
+    <color name="Shamrockgreen">#009E60</color>
+    <color name="Slateblue">#6A5ACD</color>
+    <color name="Tangerine">#F28500</color>
+    <color name="TrueBlue">#2D68C4</color>
+    <color name="White">#FFFFFF</color>
+    <color name="YellowSunsine">#FFF700</color>
+
 </resources>
