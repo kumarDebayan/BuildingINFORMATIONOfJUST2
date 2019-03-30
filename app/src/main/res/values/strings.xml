@@ -9,4 +9,106 @@
     <string name="name_text6">SHEIKH HASINA HALL</string>
     <string name="name_text7">Logout</string>
 
+    <string-array name="BSMADept_names">
+
+
+        <item> FACULTY OF ENGINEERING AND TECHNOLOGY </item>
+        <item>Computer Science And Engineering</item>
+        <item>Electrical And Electronics Engineering</item>
+        <item>Industrial And Production Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Petroleum and Mining Engineering </item>
+        <item></item>
+        <item> FACULTY OF SCIENCE</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Mathematics</item>
+        <item></item>
+        <item> FACULTY OF BIOLOGICAL SCIENCE AND TECHNOLOGY </item>
+        <item>Pharmacy</item>
+        <item>Microbiology</item>
+        <item>Fisheries and Marine Bioscience</item>
+        <item>Genetic Engineering and Biotechnology</item>
+        <item></item>
+        <item> FACULTY OF APPLIED SCIENCE AND TECHNOLOGY </item>
+        <item>Environmental Science and Technology </item>
+        <item>Nutrition and Food Technology</item>
+        <item>Agro Product Processing Technology </item>
+
+    </string-array>
+
+    <string-array name="LBDept_names">
+
+        <item> FACULTY OF BUSINESS STUDIES</item>
+        <item>Accounting and Information Systems </item>
+        <item>Management</item>
+        <item>Finance and Banking </item>
+        <item>Marketing</item>
+        <item></item>
+        <item> FACULTY OF HEALTH SCIENCE </item>
+        <item>Physical Education and Sports Science</item>
+        <item></item>
+        <item> FACULTY OF ARTS AND SOCIAL SCIENCE </item>
+        <item>English</item>
+        <item>Bangla</item>
+
+    </string-array>
+
+    <string-array name="AB_rooms">
+
+        <item>AGRANI Bank</item>
+        <item>Cyber Center</item>
+        <item>Conference Room</item>
+        <item>Office Of The Vice Chancellor</item>
+        <item>Office Of The Treasurer</item>
+        <item>Office Of The Registrar</item>
+        <item>Office Of The Ict cell</item>
+        <item>Office Of The Librarian</item>
+        <item>Office Of The The Provost</item>
+        <item>Office Of The Proctor</item>
+        <item>Office Of The Student Counseling and Guidance</item>
+        <item>Office Of The Director of Accounts</item>
+        <item>Office of The Director of Planing,Development and Works</item>
+        <item>Office of The Controller of Examinations</item>
+        <item>Office of The Cheif Medical Officer</item>
+        <item>Public Relation Brance (Register Office)</item>
+        <item>Office Of The Principle(JUST School and college) </item>
+
+
+    </string-array>
+
+    <string-array name="MBDept_names">
+
+        <item>FACULTY OF ENGINEERING AND TECHNOLOGY </item>
+        <item>Biomedical Engineering </item>
+        <item>Textile Engineering</item>
+        <item>Leather Engineering</item>
+        <item></item>
+        <item> FACULTY OF BIOLOGICAL SCIENCE </item>
+        <item>Phisiotherapy And Rehabilitation</item>
+        <item></item>
+        <item>Health Center</item>
+
+    </string-array>
+
+    <string-array name="SMRH_rooms">
+
+        <item>Provost Room</item>
+        <item>Dining Room</item>
+        <item>Reading Room</item>
+        <item>Common Room</item>
+        <item>TV Room</item>
+
+    </string-array>
+
+    <string-array name="SHH_rooms">
+
+        <item>Provost Room</item>
+        <item>Dining Room</item>
+        <item>Reading Room</item>
+        <item>Common Room</item>
+        <item>TV Room</item>
+
+    </string-array>
+
 </resources>

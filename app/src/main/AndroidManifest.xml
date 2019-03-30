@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".BSMA_Activity" />
+        <activity android:name=".LBActivity" />
+        <activity android:name=".MBActivity" />
+        <activity android:name=".AB_Activity" />
+        <activity android:name=".SMRH_Activity" />
+        <activity android:name=".SHH_Activity"></activity>
     </application>
 
 </manifest>
