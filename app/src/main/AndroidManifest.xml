@@ -16,12 +16,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BSMA_Activity" />
-        <activity android:name=".LBActivity" />
-        <activity android:name=".MBActivity" />
-        <activity android:name=".AB_Activity" />
-        <activity android:name=".SMRH_Activity" />
-        <activity android:name=".SHH_Activity"></activity>
+        <activity android:name=".BSMA_Activity"
+            android:label="BSMABuilding"/>
+        <activity android:name=".LBActivity"
+            android:label="LibraryBuilding"/>
+        <activity android:name=".MBActivity"
+            android:label="MedicalBuilding"/>
+        <activity android:name=".AB_Activity"
+            android:label="AdministrativeBuilding"/>
+        <activity android:name=".SMRH_Activity"
+            android:label="SMRHall"/>
+        <activity android:name=".SHH_Activity"
+            android:label="SHHall">
+
+        </activity>
     </application>
 
 </manifest>
