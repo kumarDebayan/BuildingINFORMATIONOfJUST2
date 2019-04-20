@@ -1,5 +1,6 @@
 package com.example.sndebayankumar.buildinginformationofjust;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -26,8 +27,25 @@ public class MBActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
-                String value = MBDeptNames[position];
-                Toast.makeText(MBActivity.this,value+" "+position, Toast.LENGTH_SHORT).show();
+                if (position==1) {
+                    startActivity(new Intent(MBActivity.this,BMEActivity.class));
+                }
+
+                if (position==2) {
+                    startActivity(new Intent(MBActivity.this,TEActivity.class));
+                }
+                if (position==3) {
+                    startActivity(new Intent(MBActivity.this,LEActivity.class));
+                }
+                if (position==6) {
+                    startActivity(new Intent(MBActivity.this,PRActivity.class));
+                }
+                if (position==8) {
+                    startActivity(new Intent(MBActivity.this,HCActivity.class));
+                }
+
+                //String value = MBDeptNames[position];
+                //Toast.makeText(MBActivity.this,value+" "+position, Toast.LENGTH_SHORT).show();
             }
         });
 

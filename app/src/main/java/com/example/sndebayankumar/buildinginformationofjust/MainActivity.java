@@ -15,13 +15,17 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private Button button1,button2,button3,button4,button5,button6;
+    public Button bsma,dname,sroom,troom;
 
-
+    DatabaseHelper databasehelper;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        databasehelper = new DatabaseHelper(this);
+        SQLiteDatabase sqLiteDatabase =
+        databasehelper.getWritableDatabase();
 
 
         button1 = findViewById(R.id.name1_textId);
@@ -38,9 +42,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         button5.setOnClickListener(this);
         button6.setOnClickListener(this);
 
-
-    }
-
+        button1 = (Button) findViewById(R.id.name1_textId);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,BSMA_Activity.class);
+                startActivity(intent);
+                }
+        });
+        }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -66,33 +76,35 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
 
+        String button11 = button1.getText().toString();
+        String button21 = button2.getText().toString();
+        String button31 = button3.getText().toString();
+        String button41 = button4.getText().toString();
+        String button51 = button5.getText().toString();
+        String button61 = button6.getText().toString();
+
         if(v.getId() == R.id.name1_textId){
             Intent intent = new Intent(MainActivity.this,BSMA_Activity.class);
             startActivity(intent);
         }
-
         if(v.getId() == R.id.name2_textId){
             Intent intent = new Intent(MainActivity.this,LBActivity.class);
             startActivity(intent);
         }
-
         if(v.getId() == R.id.name3_textId){
             Intent intent = new Intent(MainActivity.this,AB_Activity.class);
             startActivity(intent);
 
         }
-
         if(v.getId() == R.id.name4_textId){
            Intent intent = new Intent(MainActivity.this,MBActivity.class);
             startActivity(intent);
         }
-
         if(v.getId() == R.id.name5_textId){
             Intent intent = new Intent(MainActivity.this,SMRH_Activity.class);
             startActivity(intent);
         }
-
-       if(v.getId() == R.id.name6_textId){
+        if(v.getId() == R.id.name6_textId){
             Intent intent = new Intent(MainActivity.this,SHH_Activity.class);
             startActivity(intent);
        }

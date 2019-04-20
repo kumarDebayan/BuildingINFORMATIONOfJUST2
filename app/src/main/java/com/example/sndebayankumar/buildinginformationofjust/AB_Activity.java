@@ -27,8 +27,8 @@ public class AB_Activity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
-                String value = ABRooms[position];
-                Toast.makeText(AB_Activity.this,value+" "+position, Toast.LENGTH_SHORT).show();
+               // String value = ABRooms[position];
+               // Toast.makeText(AB_Activity.this,value+" "+position, Toast.LENGTH_SHORT).show();
             }
         });
 

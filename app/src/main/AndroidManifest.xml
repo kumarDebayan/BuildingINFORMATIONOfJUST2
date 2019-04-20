@@ -16,20 +16,198 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BSMA_Activity"
-            android:label="BSMABuilding"/>
-        <activity android:name=".LBActivity"
-            android:label="LibraryBuilding"/>
-        <activity android:name=".MBActivity"
-            android:label="MedicalBuilding"/>
-        <activity android:name=".AB_Activity"
-            android:label="AdministrativeBuilding"/>
-        <activity android:name=".SMRH_Activity"
-            android:label="SMRHall"/>
-        <activity android:name=".SHH_Activity"
-            android:label="SHHall">
-
-        </activity>
+        <activity
+            android:name=".BSMA_Activity"
+            android:label="BSMABuilding" />
+        <activity
+            android:name=".LBActivity"
+            android:label="LibraryBuilding" />
+        <activity
+            android:name=".MBActivity"
+            android:label="MedicalBuilding" />
+        <activity
+            android:name=".AB_Activity"
+            android:label="AdministrativeBuilding" />
+        <activity
+            android:name=".SMRH_Activity"
+            android:label="SMRHall" />
+        <activity
+            android:name=".SHH_Activity"
+            android:label="SHHall" />
+        <activity
+            android:name=".CSEActivity"
+            android:label="CSEDept" />
+        <activity
+            android:name=".EEEActivity"
+            android:label="EEEDept" />
+        <activity
+            android:name=".IPEActivity"
+            android:label="IPEDept" />
+        <activity
+            android:name=".ChEActivity"
+            android:label="ChEDept" />
+        <activity
+            android:name=".PMEActivity"
+            android:label="PMEDept" />
+        <activity
+            android:name=".ChemActivity"
+            android:label="ChemDept" />
+        <activity
+            android:name=".PharmachyActivity"
+            android:label="PharmachyDept" />
+        <activity
+            android:name=".ESTActivity"
+            android:label="ESTDept" />
+        <activity
+            android:name=".PhyActivity"
+            android:label="PhyDept" />
+        <activity
+            android:name=".MathActivity"
+            android:label="MathDept" />
+        <activity
+            android:name=".MicroBActivity"
+            android:label="MicroBDept" />
+        <activity
+            android:name=".FMBActivity"
+            android:label="FMBDept" />
+        <activity
+            android:name=".GEBTActivity"
+            android:label="GEBTDept" />
+        <activity
+            android:name=".NFTActivity"
+            android:label="NFTDept" />
+        <activity
+            android:name=".APPTActivity"
+            android:label="APPTDept" />
+        <activity
+            android:name=".AISActivity"
+            android:label="AISDept" />
+        <activity
+            android:name=".MGActivity"
+            android:label="ManagementDept" />
+        <activity
+            android:name=".FBActivity"
+            android:label="FBDept" />
+        <activity
+            android:name=".MTActivity"
+            android:label="MarketingDept" />
+        <activity
+            android:name=".PESSActivity"
+            android:label="PESSDept" />
+        <activity
+            android:name=".ENGActivity"
+            android:label="ENGDept" />
+        <activity
+            android:name=".BMEActivity"
+            android:label="BMEDept" />
+        <activity
+            android:name=".TEActivity"
+            android:label="TEDept" />
+        <activity
+            android:name=".PRActivity"
+            android:label="PhisiotherapyDept" />
+        <activity
+            android:name=".LEActivity"
+            android:label="LEDept" />
+        <activity
+            android:name=".HCActivity"
+            android:label="HealthCenter" />
+        <activity
+            android:name=".CSE_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".CSE_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".EEE_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".EEE_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".IPE_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".IPE_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".ChE_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".PME_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".ChE_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".PME_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".AIS_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".ENG_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".MG_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".FB_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".MT_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".BME_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".TE_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity
+            android:name=".PR_StudentActivity"
+            android:label="StudentRoom" />
+        <activity
+            android:name=".AIS_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".BME_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".ENG_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".FB_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".MG_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".MT_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".PR_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".TE_TeacherActivity"
+            android:label="TeacherRoom" />
+        <activity
+            android:name=".HC_DoctorActivity"
+            android:label="DoctorRoom"/>
+        <activity
+            android:name=".HC_MedicineActivity"
+            android:label="MedicineCenter"/>
+        <activity
+            android:name=".SMR_ProvostActivity"
+            android:label="ProvostRoom"/>
+        <activity
+            android:name=".SH_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity
+            android:name=".SMR_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity
+            android:name=".SH_ProvostActivity"
+            android:label="ProvostRoom"></activity>
     </application>
 
 </manifest>

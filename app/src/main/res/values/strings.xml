@@ -8,6 +8,8 @@
     <string name="name_text5">SHAHEED MOSHIUR RAHMAN HALL</string>
     <string name="name_text6">SHEIKH HASINA HALL</string>
     <string name="name_text7">Logout</string>
+    <string name="name_text8">STUDENTS ROOM</string>
+    <string name="name_text9">TEACHERS ROOM</string>
 
     <string-array name="BSMADept_names">
 
@@ -98,6 +100,7 @@
         <item>Reading Room</item>
         <item>Common Room</item>
         <item>TV Room</item>
+        <item>Students Room</item>
 
     </string-array>
 
@@ -108,7 +111,2835 @@
         <item>Reading Room</item>
         <item>Common Room</item>
         <item>TV Room</item>
+        <item>Students Room</item>
 
     </string-array>
 
+    <string-array name="CSEdept_Student_Room">
+
+        <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+        <item>
+            MSc\n
+            Class Room:\n
+            Lab Room:
+        </item>
+
+    </string-array>
+
+    <string-array name="CSEdept_Teacher_Room">
+
+        <item>
+            Dr. Syed Md. Galib\n
+            Associate Professor and Chaiman\n
+            Room:218
+        </item>
+        <item>
+            Dr. Md. Alam Hossain\n
+            Assistant Professor\n
+            Room:222
+        </item>
+        <item>
+            Dr. Md Asif Nashiry\n
+            Assistant Professor\n
+            Room:215
+        </item>
+        <item>
+            Engr. Md. Arif Rahman\n
+            Assistant Professor\n
+            Room:219
+        </item>
+
+        <item>
+            Nazmul Hossain\n
+            Assistant Professor\n
+            Room:219
+        </item>
+
+        <item>
+            Md. Al-Amin\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            Mohammad Nowsin Amin Sheikh\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            Md. Yasir Arafat\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            Monishanker Halder\n
+            Lecturer\n
+            Room:216
+        </item>
+
+        <item>
+            Jannatul Ferdush\n
+            Lecturer\n
+            Room:220
+        </item>
+
+        <item>
+            Md. Shaifuzzam\n
+            Lecturer\n
+            Room:216
+        </item>
+
+        <item>
+            Atish Kumar Dipongkor\n
+            Lecturer\n
+            Room:220
+        </item>
+
+        <item>
+            Jabed Al Faysal\n
+            Lecturer\n
+            Room:214
+        </item>
+
+        <item>Office Room:217</item>
+
+
+    </string-array>
+
+    <string-array name="EEEdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+        <item>
+            MSc\n
+            Class Room:\n
+            Lab Room
+        </item>
+    </string-array>
+
+    <string-array name="EEEdept_Teacher_Room">
+
+          <item>
+            MD. AMZAD HOSSAIN, DR. ENG.\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MD. TANVIR HASAN\n
+            Assistant Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOZNUZZAMAN\n
+            Assistant Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MASUD RANA\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. BIPLOB HOSSAIN\n
+            Lecturer\n
+            Room:216
+        </item>
+
+        <item>
+           MD. TANVIR AHAMMED\n
+            Lecturer\n
+            Room:512
+        </item>
+
+        <item>
+            MD. TARIQUZZAMAN\n
+            Lecturer\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>
+            SHARADINDU GOPAL KIRTANIA\n
+            Lecturer\n
+            Room:211
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="IPEdept_Student_Room">
+
+        <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+        <item>
+            MSc\n
+            Class Room:\n
+            Lab Room:
+        </item>
+
+    </string-array>
+
+    <string-array name="IPEdept_Teacher_Room">
+
+         <item>
+           DR. A.S.M MOJAHIDUL HOQUE\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            SARAJIT KUMAR BISWAS\n
+            Assistant Professor\n
+            Room:219
+        </item>
+        <item>
+            SAMRAT KUMAR DEY\n
+            Assistant Professor\n
+            Room:218
+        </item>
+        <item>
+            TARUN KUMAR BISWAS\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. TAHIDUZZAMAN\n
+            Lecturer\n
+            Room:211
+        </item>
+
+        <item>
+            MD. SUMON RAHMAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>
+            MUSTAFIZUR RAHMAN\n
+            Lecturer\n
+            Room:211
+        </item>
+
+        <item>
+            ABID HOSSAIN KHAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>
+            S.M. TAZIM AHMED\n
+            Lecturer\n
+            Room:214
+        </item>
+
+        <item>Office Room:213</item>
+
+    </string-array>
+
+    <string-array name="ChEdept_Student_Room">
+
+        <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+        <item>
+            MSc\n
+            Class Room:\n
+            Lab Room:
+        </item>
+
+    </string-array>
+
+    <string-array name="ChEdept_Teacher_Room">
+
+         <item>
+            MD. WASHIKUR RAHMAN\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+           BIPLOB KUMAR BISWAS\n
+            Professor\n
+            Room:219
+        </item>
+        <item>
+            DR. S.M. NUR ALAM\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            DR. MD. JAHANGIR ALAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. ZAVED HOSSAIN KHAN\n
+            Associate Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. ABDUL HALIM\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            SHAHANAZ PARVIN\n
+            Lecturer\n
+            Room:211
+        </item>
+
+        <item>
+            MST. SUMAIA AKTAR SUMI\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>
+            MD. RASHID AL-MAMUN\n
+            Lecturer\n
+            Room:211
+        </item>
+
+        <item>
+            MD. OWALEUR RAHMAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="PMEdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+        <item>
+            MSc\n
+            Class Room:\n
+            Lab Room:
+        </item>
+
+    </string-array>
+
+    <string-array name="PMEdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+
+    <string-array name="BMEdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+
+
+    </string-array>
+
+    <string-array name="BMEdept_Teacher_Room">
+
+         <item>
+            BIPLOB KUMAR BISWAS\n
+            Professor and Chairman\n
+            Room:601
+        </item>
+        <item>
+            Dr. Md. Zakir Hossain \n
+            Associate Professor\n
+            Room:602
+        </item>
+        <item>
+            Hassan Al-Emran\n
+            PhD\n
+            Assistant Professor \n
+            Room:602
+        </item>
+        <item>
+            Farzana Khanam Moutushe \n
+            Lecturer\n
+            Room:603
+        </item>
+
+        <item>
+            Sourav Das \n
+            Lecturer\n
+            Room:603
+        </item>
+
+        <item>
+            Md. Sahabuddin \n
+            Lecturer\n
+            Room:603
+        </item>
+
+        <item>
+            MD. ANAS ALI \n
+            Lecturer\n
+            Room:603
+        </item>
+
+        <item>Office Room:604</item>
+
+
+    </string-array>
+
+    <string-array name="TEdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+
+
+    </string-array>
+
+    <string-array name="TEdept_Teacher_Room">
+
+         <item>
+            Salma Katun Sela \n
+            Lecturer\n
+            Room:212
+        </item>
+
+        <item>
+           Habibur Rahman \n
+            Lecturer\n
+            Bangabandhu Sheikh Mujib Academic Building, JUST\n
+            Room:713
+        </item>
+
+        <item>
+            Tarikul Islam \n
+            Lecturer\n
+            Room:211
+        </item>
+        <item>Office Room:213</item>
+
+    </string-array>
+
+    <string-array name="PRdept_Student_Room">
+        <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+
+    </string-array>
+
+    <string-array name="PRdept_Teacher_Room">
+
+         <item>
+            Dr. Md. Feroz Kabir\n
+             Lecturer and Chairman \n
+            Room:212
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="AISdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="AISdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="MGdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="MGdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="FBdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="FBdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="MTdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="MTdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="ENGdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="ENGdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="PESSdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="PESSdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="Chemdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="Chemdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="Phydept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="Phydept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="Mathdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="Mathdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="Pharmachydept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="Pharmachydept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="MicroBdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="MicroBdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="FMBdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="FMBdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="GEBTdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="GEBTdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="ESTdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="ESTdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="NFTdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="NFTdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="APPTdept_Student_Room">
+
+         <item>
+            1st Year\n
+            Class Room:203\n
+            Lab Room:201
+        </item>
+        <item>
+            2nd Year\n
+            Class Room:202(A)\n
+            Lab Room:201
+        </item>
+        <item>
+            3rd Year\n
+            Class Room:202(B)\n
+            Lab Room:440
+        </item>
+        <item>
+            4th Year\n
+            Class Room:201\n
+            Lab Room:440
+        </item>
+
+    </string-array>
+
+    <string-array name="APPTdept_Teacher_Room">
+
+         <item>
+            Dr. H.M. Zakir Hossain\n
+            Associate Professor and Chairman\n
+            Room:212
+        </item>
+        <item>
+            DR. MOHAMMAD TOFAYAL AHMED\n
+            Associate Professor\n
+            Room:219
+        </item>
+        <item>
+            MD. MOKLESUR RAHMAN\n
+            Associate Professor\n
+            Room:218
+        </item>
+        <item>
+            MD. MINHAJ UDDIN MONIR\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            MD. KAMRUL ISLAM\n
+            Assistant Professor\n
+            Room:216
+        </item>
+
+        <item>
+            DR. MD. AMINUL ISLAM\n
+            Assistant Professor\n
+            Room:512
+        </item>
+
+        <item>
+            MD. SHAHEEN SHAH\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            FARZANA YEASMIN NIPA\n
+            Assistant Professor\n
+            Room:214
+        </item>
+
+        <item>
+            DR. MOHAMMAD FORRUKH HOSSAIN KHAN\n
+            Assistant Professor\n
+            Room:211
+        </item>
+
+        <item>
+            MD. MEHEDI HASAN\n
+            Lecturer\n
+            Room:217
+        </item>
+
+        <item>Office Room:213</item>
+
+
+    </string-array>
+
+    <string-array name="HC_Doctor_Room">
+
+    <item>
+        DR. DIPAK KUMAR\n
+        M.B.B.S(RMC)\n
+        Medical Officer and Chairman\n
+        Jashore University Of Science And Technology\n
+        Room:114
+    </item>
+        <item>
+        DR. NAHID SULTANA\n
+        MBBS(RAJ)\n
+        Medical Officer\n
+       Jashore University Of Science And Technology\n
+        Room:113
+    </item>
+
+        <item>
+        Dr. Milton Kumar Debnath\n
+        M.B.B.S(RMC)\n
+        Residential Medical Officer\n
+        Jashore University Of Science And Technology\n
+        Room:111
+    </item>
+
+
+    </string-array>
+
+    <string-array name="HC_Medicine_Room">
+
+    <item>
+        Room:112
+    </item>
+
+    </string-array>
+   <string-array name="SH_Provost_Room">
+       <item>
+           Dr. Prof. Dr. Md. Anisur Rahman\n
+           Provost\n
+           Sheikh Hasina Student Hall\n
+           Room:
+       </item>
+
+       <item>
+            Dr. \n
+            Assistant Provost\n
+            Sheikh Hasina Student Hall\n
+        </item>
+
+       <item>
+            Dr. \n
+            Assistant Provost\n
+           Sheikh Hasina Student Hall\n
+            Room:
+        </item>
+
+   </string-array>
+
+    <string-array name="SMR_Provost_Room">
+
+        <item>
+            Dr. Iqbal Kabir Jahid\n
+            Provost\n
+            Shaheed Moshiur Rahman Student Hall\n
+            Room:
+        </item>
+
+        <item>
+            Dr. \n
+            Assistant Provost\n
+            Shaheed Moshiur Rahman Student Hall\n
+            Room:
+        </item>
+
+        <item>
+            Dr. \n
+            Assistant Provost\n
+            Shaheed Moshiur Rahman Student Hall\n
+            Room:
+        </item>
+    </string-array>
+
+    <string-array name="SMR_Student_Room">
+        <item>
+         Room No: 101\n
+         Dept. Name: CSE\n
+         Student: 4
+        </item>
+
+        <item>
+         Room No: 102\n
+         Dept. Name: CSE\n
+         Student: 4
+        </item>
+
+        <item>
+          Room No: 103\n
+          Dept. Name: EEE\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 111\n
+         Dept. Name: IPE\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 112\n
+         Dept. Name: PME\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 113\n
+         Dept. Name: ChE\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 114\n
+         Dept. Name: BME\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 115\n
+         Dept. Name: TE\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 119\n
+         Dept. Name: AIS\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 125\n
+         Dept. Name: FB\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 136\n
+          Dept. Name:\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 140\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 142\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 145\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 146\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 147\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 148\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 149\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+
+        <item>
+         Room No: 205\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 206\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 207\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 208\n
+          Dept. Name:\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 220\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 222\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 225\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 228\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 229\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 230\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 231\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 233\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 244\n
+          Dept. Name:\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 245\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 249\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 301\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 302\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 303\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 304\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 305\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 306\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 307\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 308\n
+         Dept. Name:PESS\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 313\n
+         Dept. Name:MATH\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 317\n
+         Dept. Name:MB\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 320\n
+         Dept. Name:FMB\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 325\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 327\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 333\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 339\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 347\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 350\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 411\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 412\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 414\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 419\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 420\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 518\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 520\n
+          Dept. Name:\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 521\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 526\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 536\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 541\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No:\n
+         Dept. Name: 545\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 548\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 549\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+
+    </string-array>
+
+    <string-array name="SH_Student_ROOM">
+        <item>
+         Room No: 101\n
+         Dept. Name: CSE 1st Year\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 102\n
+         Dept. Name: EEE 1st year\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 103\n
+          Dept. Name: IPE 1st year\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 105\n
+         Dept. Name: ChE 1st year\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 106\n
+         Dept. Name: PME 1st Year\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 107\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 108\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 111\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 112\n
+         Dept. Name: ENG\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 119\n
+         Dept. Name: APPT\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 201\n
+         Dept. Name: NFT\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 205\n
+          Dept. Name: GEBT\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 209\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 211\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 219\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 302\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 306\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 307\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 312\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 314\n
+          Dept. Name:\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 320\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 403\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 408\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 413\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 420\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 504\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 509\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 515\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 517\n
+          Dept. Name:\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 518\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 520\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 521\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 522\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 523\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 524\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 525\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 526\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+          Room No: 527\n
+          Dept. Name:\n
+          Student:
+        </item>
+
+        <item>
+         Room No: 528\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 529\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 530\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 531\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 532\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 549\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+        <item>
+         Room No: 550\n
+         Dept. Name:\n
+         Student:
+        </item>
+
+    </string-array>
 </resources>
