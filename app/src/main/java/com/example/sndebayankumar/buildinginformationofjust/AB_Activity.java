@@ -1,5 +1,6 @@
 package com.example.sndebayankumar.buildinginformationofjust;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -26,6 +27,35 @@ public class AB_Activity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+
+                if (position==0) {
+                    startActivity(new Intent(AB_Activity.this,AgraniBankActivity.class));
+                }
+                if (position==1) {
+                    startActivity(new Intent(AB_Activity.this,CyberCenterActivity.class));
+                }
+                if (position==2) {
+                    startActivity(new Intent(AB_Activity.this,ConferenceRoomActivity.class));
+                }
+                if (position==3) {
+                    startActivity(new Intent(AB_Activity.this,VCActivity.class));
+                }
+                if (position==4) {
+                    startActivity(new Intent(AB_Activity.this,TreasurerActivity.class));
+                }
+                if (position==5) {
+                    startActivity(new Intent(AB_Activity.this,RegisterActivity.class));
+                }
+                if (position==8) {
+                    startActivity(new Intent(AB_Activity.this,OfficeProvostActivity.class));
+                }
+                if (position==9) {
+                    startActivity(new Intent(AB_Activity.this,OfficeProctorActivity.class));
+                }
+                if (position==10) {
+                    startActivity(new Intent(AB_Activity.this,SCGActivity.class));
+                }
+
 
                // String value = ABRooms[position];
                // Toast.makeText(AB_Activity.this,value+" "+position, Toast.LENGTH_SHORT).show();

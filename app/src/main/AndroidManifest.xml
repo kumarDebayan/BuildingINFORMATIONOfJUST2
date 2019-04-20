@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sndebayankumar.buildinginformationofjust">
+    package="com.example.sndebayankumar.buildinginformationofjust" >
 
     <application
         android:allowBackup="true"
@@ -8,8 +8,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        android:theme="@style/AppTheme" >
+        <activity android:name=".MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -162,7 +162,7 @@
             android:label="StudentRoom" />
         <activity
             android:name=".TE_StudentActivity"
-            android:label="StudentRoom"/>
+            android:label="StudentRoom" />
         <activity
             android:name=".PR_StudentActivity"
             android:label="StudentRoom" />
@@ -192,22 +192,52 @@
             android:label="TeacherRoom" />
         <activity
             android:name=".HC_DoctorActivity"
-            android:label="DoctorRoom"/>
+            android:label="DoctorRoom" />
         <activity
             android:name=".HC_MedicineActivity"
-            android:label="MedicineCenter"/>
+            android:label="MedicineCenter" />
         <activity
             android:name=".SMR_ProvostActivity"
-            android:label="ProvostRoom"/>
+            android:label="ProvostRoom" />
         <activity
             android:name=".SH_StudentActivity"
-            android:label="StudentRoom"/>
+            android:label="StudentRoom" />
         <activity
             android:name=".SMR_StudentActivity"
-            android:label="StudentRoom"/>
+            android:label="StudentRoom" />
         <activity
             android:name=".SH_ProvostActivity"
-            android:label="ProvostRoom"></activity>
+            android:label="ProvostRoom" />
+        <activity
+            android:name=".AgraniBankActivity"
+            android:label="AgraniBank" />
+        <activity
+            android:name=".VCActivity"
+            android:label="ViceChancellorSir" />
+        <activity
+            android:name=".TreasurerActivity"
+            android:label="TreasurerRoom" />
+        <activity
+            android:name=".RegisterActivity"
+            android:label="RegisterRoom" />
+        <activity
+            android:name=".OfficeProvostActivity"
+            android:label="ProvostRoom" />
+        <activity
+            android:name=".OfficeProctorActivity"
+            android:label="ProtorRoom" />
+        <activity
+            android:name=".SCGActivity"
+            android:label="StudentCounselingRoom" />
+        <activity
+            android:name=".CyberCenterActivity"
+            android:label="CyberCenter" />
+        <activity
+            android:name=".ConferenceRoomActivity"
+            android:label="ConferenceRoom" />
+        <activity android:name=".Chem_StudentActivity" />
+        <activity android:name=".Phy_StudentActivity" >
+        </activity>
     </application>
 
 </manifest>

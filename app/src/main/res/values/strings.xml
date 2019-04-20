@@ -2180,28 +2180,31 @@
     </item>
 
     </string-array>
-   <string-array name="SH_Provost_Room">
+    <string-array name="SH_Provost_Room">
        <item>
            Dr. Prof. Dr. Md. Anisur Rahman\n
            Provost\n
            Sheikh Hasina Student Hall\n
-           Room:
+           Room No:
        </item>
 
-       <item>
-            Dr. \n
-            Assistant Provost\n
+        <item>
+            Dr Selina Akter\n
+            Provost\n
+            Sheikh Hasina Hall\n
+            Contact: +8801709818132\n
             Sheikh Hasina Student Hall\n
+            Room No:
         </item>
 
-       <item>
+        <item>
             Dr. \n
             Assistant Provost\n
            Sheikh Hasina Student Hall\n
             Room:
         </item>
 
-   </string-array>
+    </string-array>
 
     <string-array name="SMR_Provost_Room">
 
@@ -2213,10 +2216,11 @@
         </item>
 
         <item>
-            Dr. \n
-            Assistant Provost\n
-            Shaheed Moshiur Rahman Student Hall\n
-            Room:
+            Md. Amzad Hossain, Dr. Engg.\n
+            Provost\n
+            Shaheed Mashiur Rahman Hall\n
+            Contact:+8801709818111 \n
+            Room No:
         </item>
 
         <item>
@@ -2942,4 +2946,208 @@
         </item>
 
     </string-array>
+
+    <string-array name="Conference_Room">
+        <item>
+            Room No: 312
+        </item>
+    </string-array>
+
+    <string-array name="Cyber_Center_Room">
+        <item>
+            Room No: 212
+        </item>
+    </string-array>
+
+    <string-array name="Agrani_Bank_Room">
+        <item>
+            Room No: 112
+        </item>
+    </string-array>
+
+    <string-array name="Vice_Chancellor_Room">
+        <item>
+            Professor Md. Anwar Hossain, PhD\n
+            Vice Chancellor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Room No: 412
+        </item>
+
+        <item>
+            A.T.M. Quamrul Hasan\n
+            PS to Vice Chancellor\n
+            Contact: +8801709818100\n
+            Room No: 412
+        </item>
+    </string-array>
+
+    <string-array name="Treasurer_Room">
+        <item>
+            Prof. Md. Abdul Mozid\n
+            Treasurer\n
+            Jashore University of Science and Technology, Jashore.\n
+            Room No: 312
+        </item>
+    </string-array>
+
+    <string-array name="Registerr_Room">
+        <item>
+            Engr. Md. Ahsan Habib\n
+            Bsc Engg. and MSc Engg.(EEE), BUET\n
+            Registrar\n
+            Jashore University of Science and Technology, Jashore.\n
+            Room No: 313
+        </item>
+
+        <item>
+            Mohammad Emdadul Haque\n
+            BSS (Hons),MSS (Sociology),SUST\n
+            Deputy Registrar\n
+            Jashore University of Science and Technology, Jashore.\n
+            Room No: 314
+        </item>
+
+    </string-array>
+
+    <string-array name="Office_Provost_Room">
+        <item>
+            Md. Amzad Hossain, Dr. Engg.\n
+            Provost\n
+            Shaheed Mashiur Rahman Student Hall\n
+            Jashore University of Science and Technology, Jashore.\n
+            Contact:+8801709818111\n
+            Room No: 315
+        </item>
+
+        <item>
+            Dr Selina Akter\n
+            Provost\n
+            Sheikh Hasina Student Hall\n
+            Jashore University of Science and Technology, Jashore.\n
+            Contact: +8801709818132\n
+            Room No: 316
+        </item>
+
+        <item>
+            Dr Shireen Nigar\n
+            Provost\n
+            Beerprotik Taramon Bibi Student Hall\n
+            Jashore University of Science and Technology, Jashore.\n
+            Contact:+8801711409505\n
+            Room No: 317
+        </item>
+
+        <item>
+            Dr Md. Zafiroul Islam\n
+            Provost\n
+            Munshi Mohammad Meherullah Student Hall\n
+            Jashore University of Science and Technology, Jashore.\n
+            Contact: +8801709818106\n
+            Room No: 319
+        </item>
+    </string-array>
+
+    <string-array name="Office_Proctor_Room">
+        <item>
+            Prof. Dr Sheikh Mizanur Rahman\n
+            Proctor (Current Charge)\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709818115\n
+            Room No: 213
+        </item>
+
+        <item>
+            Mohammad Shaiful Islam\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818139\n
+            Room No: 215
+        </item>
+
+        <item>
+            Dr Selina Akter\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818138\n
+            Room No: 216
+        </item>
+
+        <item>
+            Dr Hassan Mohammad Al-Emran\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818141\n
+            Room No: 217
+
+        </item>
+
+        <item>
+            Forhad Karim Saikot\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818175\n
+            Room No: 218
+        </item>
+
+        <item>
+            Md. Amzad Hossain, Dr Eng.\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818111\n
+            Room No: 219
+        </item>
+    </string-array>
+
+    <string-array name="Office_SCG_Room">
+        <item>
+            Dr Md. Mer. Mosharraf Hossain\n
+            Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709818142\n
+            Room No: 224
+        </item>
+
+        <item>
+            Dr Md. Tanvir Hasan\n
+            Assistant Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818113\n
+            Room No: 225
+         </item>
+
+
+        <item>
+            Farzana Nasrin\n
+            Assistant Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801792-887434\n
+            Room No: 226
+        </item>
+
+        <item>
+            S. M. Shamiul Alam\n
+            Assistant Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818174\n
+            Room No: 227
+        </item>
+
+        <item>
+            Dr. Md. Azizur Rahman Khan\n
+            Assistant Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801776-652683\n
+            Room No: 228
+        </item>
+
+        <item>
+            Kazi Shahinur Rahman\n
+            Section Officer (Grade-2)\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801912-233635\n
+            Room No: 229
+        </item>
+    </string-array>
+
+
 </resources>
