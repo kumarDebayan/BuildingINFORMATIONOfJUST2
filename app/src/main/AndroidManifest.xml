@@ -162,7 +162,7 @@
             android:label="StudentRoom" />
         <activity
             android:name=".TE_StudentActivity"
-            android:label="StudentRoom"/>
+            android:label="StudentRoom" />
         <activity
             android:name=".PR_StudentActivity"
             android:label="StudentRoom" />
@@ -192,22 +192,102 @@
             android:label="TeacherRoom" />
         <activity
             android:name=".HC_DoctorActivity"
-            android:label="DoctorRoom"/>
+            android:label="DoctorRoom" />
         <activity
             android:name=".HC_MedicineActivity"
-            android:label="MedicineCenter"/>
+            android:label="MedicineCenter" />
         <activity
             android:name=".SMR_ProvostActivity"
-            android:label="ProvostRoom"/>
+            android:label="ProvostRoom" />
         <activity
             android:name=".SH_StudentActivity"
-            android:label="StudentRoom"/>
+            android:label="StudentRoom" />
         <activity
             android:name=".SMR_StudentActivity"
-            android:label="StudentRoom"/>
+            android:label="StudentRoom" />
         <activity
             android:name=".SH_ProvostActivity"
-            android:label="ProvostRoom"></activity>
+            android:label="ProvostRoom" />
+        <activity
+            android:name=".AgraniBankActivity"
+            android:label="AgraniBank" />
+        <activity
+            android:name=".VCActivity"
+            android:label="ViceChancellorSir" />
+        <activity
+            android:name=".TreasurerActivity"
+            android:label="TreasurerRoom" />
+        <activity
+            android:name=".RegisterActivity"
+            android:label="RegisterRoom" />
+        <activity
+            android:name=".OfficeProvostActivity"
+            android:label="ProvostRoom" />
+        <activity
+            android:name=".OfficeProctorActivity"
+            android:label="ProtorRoom" />
+        <activity
+            android:name=".SCGActivity"
+            android:label="StudentCounselingRoom" />
+        <activity
+            android:name=".CyberCenterActivity"
+            android:label="CyberCenter" />
+        <activity
+            android:name=".ConferenceRoomActivity"
+            android:label="ConferenceRoom" />
+        <activity
+            android:name=".Chem_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".Phy_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".Pharmachy_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".MB_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".GEBT_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".EST_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".NFT_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".APPT_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".Math_StudentActivity"
+            android:label="StudentRoom"/>
+        <activity android:name=".APPT_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".Chem_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".EST_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".GEBT_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".Math_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".MB_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".NFT_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".Pharmachy_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".Phy_TeacherActivity"
+            android:label="TeacherRoom"/>
+        <activity android:name=".SMR_DiningActivity"
+            android:label="DiningRoom"/>
+        <activity android:name=".SMR_ReadingActivity"
+            android:label="ReadingRoom"/>
+        <activity android:name=".SMR_CommonActivity"
+            android:label="CommonRoom"/>
+        <activity android:name=".SMR_TVActivity"
+            android:label="TvRoom"/>
+        <activity android:name=".SH_DiningActivity"
+            android:label="DiningRoom"/>
+        <activity android:name=".SH_ReadingActivity"
+            android:label="ReadingRoom"/>
+        <activity android:name=".SH_CommonActivity"
+            android:label="CommonRoom"/>
+        <activity android:name=".SH_TVActivity"
+            android:label="TvRoom"></activity>
     </application>
 
 </manifest>

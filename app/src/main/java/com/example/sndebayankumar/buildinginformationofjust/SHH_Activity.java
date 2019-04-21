@@ -30,6 +30,18 @@ public class SHH_Activity extends AppCompatActivity {
                 if (position==0) {
                     startActivity(new Intent(SHH_Activity.this,SH_ProvostActivity.class));
                 }
+                if (position==1) {
+                    startActivity(new Intent(SHH_Activity.this,SH_DiningActivity.class));
+                }
+                if (position==2) {
+                    startActivity(new Intent(SHH_Activity.this,SH_ReadingActivity.class));
+                }
+                if (position==3) {
+                    startActivity(new Intent(SHH_Activity.this,SH_CommonActivity.class));
+                }
+                if (position==4) {
+                    startActivity(new Intent(SHH_Activity.this,SH_TVActivity.class));
+                }
                 if (position==5) {
                     startActivity(new Intent(SHH_Activity.this,SH_StudentActivity.class));
                 }

@@ -29,6 +29,19 @@ public class SMRH_Activity extends AppCompatActivity {
                 if (position==0) {
                     startActivity(new Intent(SMRH_Activity.this,SMR_ProvostActivity.class));
                 }
+                if (position==1) {
+                    startActivity(new Intent(SMRH_Activity.this,SMR_DiningActivity.class));
+                }
+                if (position==2) {
+                    startActivity(new Intent(SMRH_Activity.this,SMR_ReadingActivity.class));
+                }
+                if (position==3) {
+                    startActivity(new Intent(SMRH_Activity.this,SMR_CommonActivity.class));
+                }
+                if (position==4) {
+                    startActivity(new Intent(SMRH_Activity.this,SMR_TVActivity.class));
+                }
+
                 if (position==5) {
                     startActivity(new Intent(SMRH_Activity.this,SMR_StudentActivity.class));
                 }

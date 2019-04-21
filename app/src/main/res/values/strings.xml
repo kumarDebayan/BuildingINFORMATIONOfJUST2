@@ -2180,28 +2180,31 @@
     </item>
 
     </string-array>
-   <string-array name="SH_Provost_Room">
+    <string-array name="SH_Provost_Room">
        <item>
            Dr. Prof. Dr. Md. Anisur Rahman\n
            Provost\n
            Sheikh Hasina Student Hall\n
-           Room:
+           Room No:
        </item>
 
-       <item>
-            Dr. \n
-            Assistant Provost\n
+        <item>
+            Dr Selina Akter\n
+            Provost\n
+            Sheikh Hasina Hall\n
+            Contact: +8801709818132\n
             Sheikh Hasina Student Hall\n
+            Room No:
         </item>
 
-       <item>
+        <item>
             Dr. \n
             Assistant Provost\n
            Sheikh Hasina Student Hall\n
             Room:
         </item>
 
-   </string-array>
+    </string-array>
 
     <string-array name="SMR_Provost_Room">
 
@@ -2213,10 +2216,11 @@
         </item>
 
         <item>
-            Dr. \n
-            Assistant Provost\n
-            Shaheed Moshiur Rahman Student Hall\n
-            Room:
+            Md. Amzad Hossain, Dr. Engg.\n
+            Provost\n
+            Shaheed Mashiur Rahman Hall\n
+            Contact:+8801709818111 \n
+            Room No:
         </item>
 
         <item>
@@ -2230,253 +2234,393 @@
     <string-array name="SMR_Student_Room">
         <item>
          Room No: 101\n
-         Dept. Name: CSE\n
+         Dept. Name: CSE 2nd Year\n
          Student: 4
         </item>
 
         <item>
          Room No: 102\n
-         Dept. Name: CSE\n
+         Dept. Name: CSE 2nd Year\n
          Student: 4
         </item>
 
         <item>
           Room No: 103\n
-          Dept. Name: EEE\n
-          Student:
+          Dept. Name: EEE 2nd Year\n
+          Student: 4
+        </item>
+
+        <item>
+            Room No: 104\n
+            Dept. Name: IPE 2nd Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 105\n
+            Dept. Name: PME 2nd Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 106\n
+            Dept. Name: \n
+            Student: 4
+        </item>
+        <item>
+            Room No: 107\n
+            Dept. Name: \n
+            Student: 10
+        </item>
+        <item>
+            Room No: 108\n
+            Dept. Name: \n
+            Student: 5
+        </item>
+        <item>
+            Room No: 109\n
+            Dept. Name: \n
+            Student: 5
+        </item>
+        <item>
+            Room No: 110\n
+            Dept. Name: \n
+            Student: 4
         </item>
 
         <item>
          Room No: 111\n
          Dept. Name: IPE\n
-         Student:
+         Student: 4
         </item>
 
         <item>
          Room No: 112\n
          Dept. Name: PME\n
-         Student:
+         Student: 4
         </item>
 
         <item>
          Room No: 113\n
          Dept. Name: ChE\n
-         Student:
+         Student: 4
         </item>
 
         <item>
          Room No: 114\n
          Dept. Name: BME\n
-         Student:
+         Student: 4
         </item>
 
         <item>
          Room No: 115\n
          Dept. Name: TE\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 119\n
          Dept. Name: AIS\n
-         Student:
+         Student: 5
+        </item>
+
+        <item>
+            Room No: 120\n
+            Dept. Name: \n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 121\n
+            Dept. Name: \n
+            Student: 4
+        </item>
+        <item>
+            Room No: 122\n
+            Dept. Name: \n
+            Student: 4
+        </item>
+        <item>
+            Room No: 123\n
+            Dept. Name: \n
+            Student: 4
         </item>
 
         <item>
          Room No: 125\n
          Dept. Name: FB\n
-         Student:
+         Student: 5
+        </item>
+
+        <item>
+            Room No: 133\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 8
         </item>
 
         <item>
           Room No: 136\n
-          Dept. Name:\n
-          Student:
+          Dept. Name: FMB\n
+          Student: 4
         </item>
 
         <item>
          Room No: 140\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: Math\n
+         Student: 4
         </item>
 
         <item>
          Room No: 142\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: Phy\n
+         Student: 4
+        </item>
+
+        <item>
+            Room No: 144\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 8
         </item>
 
         <item>
          Room No: 145\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: Chem\n
+         Student: 4
         </item>
 
         <item>
          Room No: 146\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: PESS\n
+         Student: 5
         </item>
 
         <item>
          Room No: 147\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: NFT\n
+         Student: 5
         </item>
 
         <item>
          Room No: 148\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: APPT\n
+         Student: 5
         </item>
 
         <item>
          Room No: 149\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: GEBT\n
+         Student: 5
+        </item>
+
+        <item>
+            Room No: 201\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 202\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 203\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 204\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
 
 
         <item>
          Room No: 205\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: AIS\n
+         Student: 5
         </item>
 
         <item>
          Room No: 206\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: Marketing\n
+         Student: 5
         </item>
 
         <item>
          Room No: 207\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: Management\n
+         Student: 5
         </item>
 
         <item>
           Room No: 208\n
-          Dept. Name:\n
-          Student:
+          Dept. Name: \n
+          Student: 4
+        </item>
+        <item>
+            Room No: 211\n
+            Dept. Name: PME 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 212\n
+            Dept. Name: Phy 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 213\n
+            Dept. Name: Chem 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 214\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 215\n
+            Dept. Name: Math 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 216\n
+            Dept. Name: GEBT 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 217\n
+            Dept. Name: NFT 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 218n
+            Dept. Name: EST 4th Year\n
+            Student: 4
         </item>
 
         <item>
          Room No: 220\n
          Dept. Name:\n
-         Student:
+         Student: 4
         </item>
 
         <item>
          Room No: 222\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Gono Room\n
+         Student: 8
         </item>
 
         <item>
          Room No: 225\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Student: 5
         </item>
 
         <item>
          Room No: 228\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Student: 5
         </item>
 
         <item>
          Room No: 229\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Student: 5
         </item>
 
         <item>
          Room No: 230\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 231\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 233\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Student: 5
         </item>
 
         <item>
           Room No: 244\n
-          Dept. Name:\n
-          Student:
+          Dept. Name: \n
+          Gono Room\n
+          Student: 8
         </item>
 
         <item>
          Room No: 245\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Student: 5
         </item>
 
         <item>
          Room No: 249\n
+         Dept. Name: \n
+         Student: 5
+        </item>
+
+        <item>
+         Room No: 250\n
+         Dept. Name: \n
+         Student: 5
+        </item>
+
+        <item>
+         Room No: 251\n
          Dept. Name:\n
          Student:
         </item>
 
         <item>
-         Room No:\n
+         Room No: 252\n
          Dept. Name:\n
          Student:
         </item>
 
         <item>
-         Room No:\n
+         Room No: 253\n
          Dept. Name:\n
          Student:
         </item>
 
         <item>
-         Room No:\n
+         Room No: 254\n
          Dept. Name:\n
          Student:
         </item>
 
         <item>
-         Room No:\n
+         Room No: 255\n
          Dept. Name:\n
          Student:
         </item>
 
         <item>
-         Room No:\n
+         Room No: 256\n
          Dept. Name:\n
          Student:
         </item>
 
         <item>
-         Room No:\n
+         Room No: 257\n
          Dept. Name:\n
          Student:
         </item>
 
         <item>
-         Room No:\n
-         Dept. Name:\n
-         Student:
-        </item>
-
-        <item>
-         Room No:\n
-         Dept. Name:\n
-         Student:
-        </item>
-
-        <item>
-         Room No:\n
+         Room No: 258\n
          Dept. Name:\n
          Student:
         </item>
@@ -2525,25 +2669,25 @@
 
         <item>
          Room No: 308\n
-         Dept. Name:PESS\n
+         Dept. Name: PESS\n
          Student:
         </item>
 
         <item>
          Room No: 313\n
-         Dept. Name:MATH\n
+         Dept. Name: MATH\n
          Student:
         </item>
 
         <item>
          Room No: 317\n
-         Dept. Name:MB\n
+         Dept. Name: MB\n
          Student:
         </item>
 
         <item>
          Room No: 320\n
-         Dept. Name:FMB\n
+         Dept. Name: FMB\n
          Student:
         </item>
 
@@ -2555,14 +2699,16 @@
 
         <item>
          Room No: 327\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Gono Room\n
+         Student: 8
         </item>
 
         <item>
          Room No: 333\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Gono Room\n
+         Student: 8
         </item>
 
         <item>
@@ -2582,6 +2728,53 @@
          Dept. Name:\n
          Student:
         </item>
+
+        <item>
+            Room No: 401\n
+            Dept. Name: CSE 1st Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 402\n
+            Dept. Name: EEE 1st Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 403\n
+            Dept. Name: IPE 1st Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 404\n
+            Dept. Name: ChE 1st Year\n
+            Student: 4
+        </item>
+
+
+        <item>
+            Room No: 405\n
+            Dept. Name: PME 1st Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 406\n
+            Dept. Name: Mat 1st Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 407\n
+            Dept. Name: Chem 1st Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 408\n
+            Dept. Name: Phy 1st Year\n
+            Student: 4
+        </item>
+
+
 
         <item>
          Room No: 411\n
@@ -2609,8 +2802,103 @@
 
         <item>
          Room No: 420\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Gono Room\n
+         Student: 8
+        </item>
+
+        <item>
+            Room No: 444\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 10
+        </item>
+
+        <item>
+            Room No: 501\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 502\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 503\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 504\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 505\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 506\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 507\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 508\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 509\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 510\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 511\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 512\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 513\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 514\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 515\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 516\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
 
         <item>
@@ -2633,8 +2921,9 @@
 
         <item>
          Room No: 526\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Gono Room\n
+         Student: 10
         </item>
 
         <item>
@@ -2650,21 +2939,22 @@
         </item>
 
         <item>
-         Room No:\n
+         Room No: \n
          Dept. Name: 545\n
          Student:
         </item>
 
         <item>
          Room No: 548\n
-         Dept. Name:\n
+         Dept. Name: \n
          Student:
         </item>
 
         <item>
          Room No: 549\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Gono Room\n
+         Student: 8
         </item>
 
 
@@ -2673,242 +2963,567 @@
     <string-array name="SH_Student_ROOM">
         <item>
          Room No: 101\n
-         Dept. Name: CSE 1st Year\n
-         Student:
+         Dept. Name: CSE 3rd Year\n
+         Student: 5
         </item>
 
         <item>
          Room No: 102\n
-         Dept. Name: EEE 1st year\n
-         Student:
+         Dept. Name: EEE 3rd year\n
+         Student: 5
         </item>
 
         <item>
           Room No: 103\n
-          Dept. Name: IPE 1st year\n
-          Student:
+          Dept. Name: IPE 3rd year\n
+          Student: 5
+        </item>
+
+        <item>
+         Room No: 104\n
+         Dept. Name: ChE 1st year\n
+         Student: 5
         </item>
 
         <item>
          Room No: 105\n
-         Dept. Name: ChE 1st year\n
-         Student:
+         Dept. Name: PME 1st Year\n
+         Student: 5
         </item>
 
         <item>
          Room No: 106\n
-         Dept. Name: PME 1st Year\n
-         Student:
+         Dept. Name:\n
+         Student: 5
         </item>
 
         <item>
          Room No: 107\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 108\n
          Dept. Name:\n
-         Student:
+         Student: 5
+        </item>
+        <item>
+            Room No: 109\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 110\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 112\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
         </item>
 
         <item>
-         Room No: 111\n
-         Dept. Name:\n
-         Student:
+            Room No: 113\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
 
         <item>
-         Room No: 112\n
+         Room No: 114\n
          Dept. Name: ENG\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 119\n
          Dept. Name: APPT\n
-         Student:
+         Student: 5
+        </item>
+
+        <item>
+            Room No: 120\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 10
+        </item>
+
+        <item>
+            Room No: 124\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 10
         </item>
 
         <item>
          Room No: 201\n
          Dept. Name: NFT\n
-         Student:
+         Student: 5
         </item>
 
         <item>
-          Room No: 205\n
+            Room No: 202\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 203\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 204\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 205\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+          Room No: 206\n
           Dept. Name: GEBT\n
-          Student:
+          Student: 5
+        </item>
+        <item>
+            Room No: 207\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 208\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 209\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
         </item>
 
         <item>
-         Room No: 209\n
-         Dept. Name:\n
-         Student:
+            Room No: 210\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
+
+
 
         <item>
          Room No: 211\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
-         Room No: 219\n
+         Room No: 212\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
-         Room No: 302\n
+            Room No: 213\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 214\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 215\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 216\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+         Room No: 217\n
          Dept. Name:\n
-         Student:
+         Student: 5
+        </item>
+
+        <item>
+            Room No: 220\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 10
+        </item>
+
+        <item>
+            Room No: 221\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 222\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 223\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 224\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 231\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 232\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 233\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 234\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 242\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 10
+        </item>
+
+        <item>
+         Room No: 301\n
+         Dept. Name:\n
+         Student: 5
+        </item>
+
+        <item>
+            Room No: 302\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 303\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 304\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 305\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
 
         <item>
          Room No: 306\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 307\n
          Dept. Name:\n
-         Student:
+         Student: 5
+        </item>
+        <item>
+            Room No: 308\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 309\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 310\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 311\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
 
         <item>
          Room No: 312\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
           Room No: 314\n
           Dept. Name:\n
-          Student:
+          Student: 5
         </item>
 
         <item>
-         Room No: 320\n
-         Dept. Name:\n
-         Student:
+           Room No: 320\n
+           Dept. Name:\n
+            Student: 5
+        </item>
+        <item>
+            Room No: 321\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 322\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 323\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
         </item>
 
         <item>
-         Room No: 403\n
-         Dept. Name:\n
-         Student:
+            Room No: 324\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
 
         <item>
-         Room No: 408\n
+            Room No: 336\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 10
+        </item>
+
+        <item>
+            Room No: 349\n
+            Dept. Name: \n
+            Gono Room\n
+            Student: 10
+        </item>
+
+        <item>
+         Room No: 401\n
          Dept. Name:\n
-         Student:
+         Student: 5
+        </item>
+        <item>
+            Room No: 402\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 403\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 404\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 405\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+         Room No: 406\n
+         Dept. Name:\n
+         Student: 5
+        </item>
+        <item>
+            Room No: 407\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 408\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 409\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 410\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
 
         <item>
          Room No: 413\n
          Dept. Name:\n
-         Student:
+         Student: 8
         </item>
 
         <item>
          Room No: 420\n
          Dept. Name:\n
-         Student:
+         Student: 10
         </item>
 
         <item>
-         Room No: 504\n
-         Dept. Name:\n
-         Student:
+            Room No: 501\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 502\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 503\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 504\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 505\n
+            Dept. Name: CSE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 506\n
+            Dept. Name: EEE 4th Year\n
+            Student: 4
+        </item>
+        <item>
+            Room No: 507\n
+            Dept. Name: IPE 4th Year\n
+            Student: 4
+        </item>
+
+        <item>
+            Room No: 508\n
+            Dept. Name: ChE 4th Year\n
+            Student: 4
         </item>
 
         <item>
          Room No: 509\n
          Dept. Name:\n
-         Student:
+         Student: 5
+        </item>
+
+        <item>
+         Room No: 510\n
+         Dept. Name:\n
+         Student: 5
         </item>
 
         <item>
          Room No: 515\n
          Dept. Name:\n
-         Student:
+         Student: 10
         </item>
 
         <item>
           Room No: 517\n
-          Dept. Name:\n
-          Student:
+          Dept. Name: \n
+          Gono Room\n
+          Student: 10
         </item>
 
         <item>
          Room No: 518\n
-         Dept. Name:\n
-         Student:
+         Dept. Name: \n
+         Gono Room\n
+         Student: 10
         </item>
 
         <item>
          Room No: 520\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 521\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 522\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 523\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 524\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 525\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 526\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
           Room No: 527\n
           Dept. Name:\n
-          Student:
+          Student: 5
         </item>
 
         <item>
          Room No: 528\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
          Room No: 529\n
          Dept. Name:\n
-         Student:
+         Student: 5
         </item>
 
         <item>
@@ -2942,4 +3557,257 @@
         </item>
 
     </string-array>
+
+    <string-array name="Conference_Room">
+        <item>
+            Room No: 312
+        </item>
+    </string-array>
+
+    <string-array name="Cyber_Center_Room">
+        <item>
+            Room No: 212
+        </item>
+    </string-array>
+
+    <string-array name="Agrani_Bank_Room">
+        <item>
+            Room No: 112
+        </item>
+    </string-array>
+
+    <string-array name="Vice_Chancellor_Room">
+        <item>
+            Professor Md. Anwar Hossain, PhD\n
+            Vice Chancellor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Room No: 412
+        </item>
+
+        <item>
+            A.T.M. Quamrul Hasan\n
+            PS to Vice Chancellor\n
+            Contact: +8801709818100\n
+            Room No: 412
+        </item>
+    </string-array>
+
+    <string-array name="Treasurer_Room">
+        <item>
+            Prof. Md. Abdul Mozid\n
+            Treasurer\n
+            Jashore University of Science and Technology, Jashore.\n
+            Room No: 312
+        </item>
+    </string-array>
+
+    <string-array name="Registerr_Room">
+        <item>
+            Engr. Md. Ahsan Habib\n
+            Bsc Engg. and MSc Engg.(EEE), BUET\n
+            Registrar\n
+            Jashore University of Science and Technology, Jashore.\n
+            Room No: 313
+        </item>
+
+        <item>
+            Mohammad Emdadul Haque\n
+            BSS (Hons),MSS (Sociology),SUST\n
+            Deputy Registrar\n
+            Jashore University of Science and Technology, Jashore.\n
+            Room No: 314
+        </item>
+
+    </string-array>
+
+    <string-array name="Office_Provost_Room">
+        <item>
+            Md. Amzad Hossain, Dr. Engg.\n
+            Provost\n
+            Shaheed Mashiur Rahman Student Hall\n
+            Jashore University of Science and Technology, Jashore.\n
+            Contact:+8801709818111\n
+            Room No: 315
+        </item>
+
+        <item>
+            Dr Selina Akter\n
+            Provost\n
+            Sheikh Hasina Student Hall\n
+            Jashore University of Science and Technology, Jashore.\n
+            Contact: +8801709818132\n
+            Room No: 316
+        </item>
+
+        <item>
+            Dr Shireen Nigar\n
+            Provost\n
+            Beerprotik Taramon Bibi Student Hall\n
+            Jashore University of Science and Technology, Jashore.\n
+            Contact:+8801711409505\n
+            Room No: 317
+        </item>
+
+        <item>
+            Dr Md. Zafiroul Islam\n
+            Provost\n
+            Munshi Mohammad Meherullah Student Hall\n
+            Jashore University of Science and Technology, Jashore.\n
+            Contact: +8801709818106\n
+            Room No: 319
+        </item>
+    </string-array>
+
+    <string-array name="Office_Proctor_Room">
+        <item>
+            Prof. Dr Sheikh Mizanur Rahman\n
+            Proctor (Current Charge)\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709818115\n
+            Room No: 213
+        </item>
+
+        <item>
+            Mohammad Shaiful Islam\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818139\n
+            Room No: 215
+        </item>
+
+        <item>
+            Dr Selina Akter\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818138\n
+            Room No: 216
+        </item>
+
+        <item>
+            Dr Hassan Mohammad Al-Emran\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818141\n
+            Room No: 217
+
+        </item>
+
+        <item>
+            Forhad Karim Saikot\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818175\n
+            Room No: 218
+        </item>
+
+        <item>
+            Md. Amzad Hossain, Dr Eng.\n
+            Assistant Proctor\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818111\n
+            Room No: 219
+        </item>
+    </string-array>
+
+    <string-array name="Office_SCG_Room">
+        <item>
+            Dr Md. Mer. Mosharraf Hossain\n
+            Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709818142\n
+            Room No: 224
+        </item>
+
+        <item>
+            Dr Md. Tanvir Hasan\n
+            Assistant Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818113\n
+            Room No: 225
+         </item>
+
+
+        <item>
+            Farzana Nasrin\n
+            Assistant Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801792-887434\n
+            Room No: 226
+        </item>
+
+        <item>
+            S. M. Shamiul Alam\n
+            Assistant Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801709-818174\n
+            Room No: 227
+        </item>
+
+        <item>
+            Dr. Md. Azizur Rahman Khan\n
+            Assistant Director\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801776-652683\n
+            Room No: 228
+        </item>
+
+        <item>
+            Kazi Shahinur Rahman\n
+            Section Officer (Grade-2)\n
+            Jashore University of Science and Technology, Jashore.\n
+            Mobile: +8801912-233635\n
+            Room No: 229
+        </item>
+    </string-array>
+
+    <string-array name="SMR_Dining_Room">
+        
+        <item>
+            Room No : 
+        </item>
+    </string-array>
+
+    <string-array name="SMR_Common_Room">
+        
+        <item>
+            Room No : 
+        </item>
+    </string-array>
+    <string-array name="SMR_TV_Room">
+        
+        <item>
+            Room No : 
+        </item>
+    </string-array>
+    <string-array name="SMR_Reading_Room">
+        
+        <item>
+            Room No : 
+        </item>
+    </string-array>
+    <string-array name="SH_Dining_Room">
+        
+        <item>
+            Room No : 
+        </item>
+    </string-array>
+    <string-array name="SH_Reading_Room">
+        
+        <item>
+            Room No : 
+        </item>
+    </string-array>
+    <string-array name="SH_TV_Room">
+        
+        <item>
+            Room No : 
+        </item>
+    </string-array>
+    <string-array name="SH_Common_Room">
+        
+        <item>
+            Room No : 
+        </item>
+    </string-array>
+
 </resources>
