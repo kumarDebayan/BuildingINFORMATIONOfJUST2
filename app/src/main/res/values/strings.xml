@@ -150,75 +150,89 @@
         <item>
             Dr. Syed Md. Galib\n
             Associate Professor and Chaiman\n
+            Mobile: 01709818108\n
             Room:218
         </item>
         <item>
             Dr. Md. Alam Hossain\n
             Assistant Professor\n
+            Mobile: 01749-032411\n
             Room:222
         </item>
         <item>
             Dr. Md Asif Nashiry\n
             Assistant Professor\n
+            Mobile: \n
             Room:215
         </item>
         <item>
             Engr. Md. Arif Rahman\n
             Assistant Professor\n
-            Room:219
+            Mobile:\n
+            Mobile: 01717283829\n
+            Room:222
         </item>
 
         <item>
             Nazmul Hossain\n
             Assistant Professor\n
+            Mobile: 01717249730\n
             Room:219
         </item>
 
         <item>
             Md. Al-Amin\n
             Assistant Professor\n
+            Mobile: \n
             Room:512
         </item>
 
         <item>
             Mohammad Nowsin Amin Sheikh\n
             Assistant Professor\n
+            Mobile: 01714492550\n
             Room:216
         </item>
 
         <item>
             Md. Yasir Arafat\n
             Assistant Professor\n
+            Mobile: 01743754783\n
             Room:214
         </item>
 
         <item>
             Monishanker Halder\n
             Lecturer\n
+            Mobile: 01727653115\n
             Room:216
         </item>
 
         <item>
             Jannatul Ferdush\n
             Lecturer\n
-            Room:220
+            Mobile: 01731791101\n
+            Room:221
         </item>
 
         <item>
             Md. Shaifuzzam\n
             Lecturer\n
-            Room:216
+            Mobile: 01731283290\n
+            Room:218
         </item>
 
         <item>
             Atish Kumar Dipongkor\n
             Lecturer\n
-            Room:220
+            Mobile: 01521255151\n
+            Room:221
         </item>
 
         <item>
             Jabed Al Faysal\n
             Lecturer\n
+            Mobile: 01942295838\n
             Room:214
         </item>
 
@@ -318,23 +332,23 @@
 
         <item>
             1st Year\n
-            Class Room:203\n
-            Lab Room:201
+            Class Room:102\n
+            Lab Room:233
         </item>
         <item>
             2nd Year\n
-            Class Room:202(A)\n
-            Lab Room:201
+            Class Room:115\n
+            Lab Room:233
         </item>
         <item>
             3rd Year\n
-            Class Room:202(B)\n
-            Lab Room:440
+            Class Room:118\n
+            Lab Room:233
         </item>
         <item>
             4th Year\n
-            Class Room:201\n
-            Lab Room:440
+            Class Room:102\n
+            Lab Room:233
         </item>
         <item>
             MSc\n
@@ -349,55 +363,55 @@
          <item>
            DR. A.S.M MOJAHIDUL HOQUE\n
             Associate Professor and Chairman\n
-            Room:212
+            Room:712
         </item>
         <item>
             SARAJIT KUMAR BISWAS\n
             Assistant Professor\n
-            Room:219
+            Room:711
         </item>
         <item>
             SAMRAT KUMAR DEY\n
             Assistant Professor\n
-            Room:218
+            Room:711
         </item>
         <item>
             TARUN KUMAR BISWAS\n
             Assistant Professor\n
-            Room:216
+            Room:711
         </item>
 
         <item>
             MD. TAHIDUZZAMAN\n
             Lecturer\n
-            Room:211
+            Room:710
         </item>
 
         <item>
             MD. SUMON RAHMAN\n
             Lecturer\n
-            Room:217
+            Room:710
         </item>
 
         <item>
             MUSTAFIZUR RAHMAN\n
             Lecturer\n
-            Room:211
+            Room:710
         </item>
 
         <item>
             ABID HOSSAIN KHAN\n
             Lecturer\n
-            Room:217
+            Room:709
         </item>
 
         <item>
             S.M. TAZIM AHMED\n
             Lecturer\n
-            Room:214
+            Room:709
         </item>
 
-        <item>Office Room:213</item>
+        <item>Office Room:713</item>
 
     </string-array>
 
@@ -405,23 +419,23 @@
 
         <item>
             1st Year\n
-            Class Room:203\n
-            Lab Room:201
+            Class Room:205\n
+            Lab Room:203
         </item>
         <item>
             2nd Year\n
-            Class Room:202(A)\n
-            Lab Room:201
+            Class Room:206(A)\n
+            Lab Room:203
         </item>
         <item>
             3rd Year\n
-            Class Room:202(B)\n
-            Lab Room:440
+            Class Room:206(B)\n
+            Lab Room:203
         </item>
         <item>
             4th Year\n
-            Class Room:201\n
-            Lab Room:440
+            Class Room:207\n
+            Lab Room:203
         </item>
         <item>
             MSc\n
@@ -441,53 +455,53 @@
         <item>
            BIPLOB KUMAR BISWAS\n
             Professor\n
-            Room:219
+            Room:211
         </item>
         <item>
             DR. S.M. NUR ALAM\n
             Associate Professor\n
-            Room:218
+            Room:211
         </item>
         <item>
             DR. MD. JAHANGIR ALAM\n
             Assistant Professor\n
-            Room:216
+            Room:210
         </item>
 
         <item>
             DR. MD. ZAVED HOSSAIN KHAN\n
             Associate Professor\n
-            Room:216
+            Room:211
         </item>
 
         <item>
             MD. ABDUL HALIM\n
             Assistant Professor\n
-            Room:214
+            Room:210
         </item>
 
         <item>
             SHAHANAZ PARVIN\n
             Lecturer\n
-            Room:211
+            Room:210
         </item>
 
         <item>
             MST. SUMAIA AKTAR SUMI\n
             Lecturer\n
-            Room:217
+            Room:209
         </item>
 
         <item>
             MD. RASHID AL-MAMUN\n
             Lecturer\n
-            Room:211
+            Room:209
         </item>
 
         <item>
             MD. OWALEUR RAHMAN\n
             Lecturer\n
-            Room:217
+            Room:209
         </item>
 
 
@@ -2148,7 +2162,7 @@
     <string-array name="HC_Doctor_Room">
 
     <item>
-        DR. DIPAK KUMAR\n
+        DR. DIPAK KUMAR MONDAL\n
         M.B.B.S(RMC)\n
         Medical Officer and Chairman\n
         Jashore University Of Science And Technology\n
@@ -2498,7 +2512,7 @@
         </item>
 
         <item>
-            Room No: 218n
+            Room No: 218\n
             Dept. Name: EST 4th Year\n
             Student: 4
         </item>
